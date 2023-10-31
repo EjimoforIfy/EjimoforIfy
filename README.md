@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/VZUhn04QSs0AmsHRic/giphy.gif" width="100px"/>
 <h1>
 - 👋 Hi, I’m @EjimoforIfy
-<img src=https://media.giphy.com/media/jvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+<img src=https://https://giphy.com/explore/computer-setup" width="30px">
 </h1>
 </div>
 <dive align="center">
