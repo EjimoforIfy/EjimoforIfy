@@ -2,14 +2,14 @@
 <img src="https://media.giphy.com/media/VZUhn04QSs0AmsHRic/giphy.gif" width="100px"/>
 <h1>
 - 👋 Hi, I’m @EjimoforIfy
-<img src=https://giphy.com/explore/computer-setup" width="30px">
+<img src="https://media.giphy.com/media/explore/giphy.gif" width="30px">
 </h1>
 </div>
 <dive align="center">
-<img src="https://giphy.com/explore/computer-setup" width="6000" height="300"/>
+<img src="https://media.giphy.com/media/explore/giphy.gif" width="6000" height="300"/>
 </div>
 
-### :man :About me
+### :man_technologist :About me
 
 - 👀 About me: I am footballer lover and a fan of Manchester United FC even if they are not in top form but i'll continue to be a fan. I am very reserved and chilled also can be quiet sometimes and very easy going. I love playing video games because it helps me relieve stress.
 <br>
