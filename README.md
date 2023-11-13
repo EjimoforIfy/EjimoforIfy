@@ -5,7 +5,7 @@
 <img src="https://media.giphy.com/media/explore/giphy.gif" width="30px">
 </h1>
 </div>
-<dive align="center">
+<div align="center">
 <img src="https://media.giphy.com/media/explore/giphy.gif" width="6000" height="300"/>
 </div>
 
@@ -13,7 +13,7 @@
 
 - 👀 About me: I am footballer lover and a fan of Manchester United FC even if they are not in top form but i'll continue to be a fan. I am very reserved and chilled also can be quiet sometimes and very easy going. I love playing video games because it helps me relieve stress.
 <br>
-- 🌱 I’m currently learning: I am currently learning C++ , Coding or should i say Programming in general.
+- 🌱 I’m currently learning: C++ , Coding or should i say Programming in general.
 <br>
 - 💞️ Hobbies: Football, Video games, all these are done in my spare time and oh yes, i love watching movies as well.
 <br>
