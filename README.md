@@ -8,11 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/efyzzi100" target="blank"><img src="https://img.shields.io/twitter/follow/efyzzi100?logo=twitter&style=for-the-badge" alt="efyzzi100" /></a> </p>
 
-- 🌱 I’m currently learning **Php**
+- 👀 About me: **I am a football lover and a fan of Manchester United FC even if they are not in top form but I'll continue to be a fan. I am very reserved and chilled also can be quiet sometimes and very easygoing. I love playing video games because it helps me relieve stress.**
 
-- 📫 How to reach me **ejimoforjunior87@gmail.com**
+- 🌱 I’m currently learning: **PHP**
 
-- ⚡ Fun fact **I love video games.**
+- 💞️ Hobbies: **Football, Video games, all these are done in my spare time, and oh yes, I love watching movies as well.**
+
+- ⚡ Fun fact: **I love video games.**
+
+- 📫 How to reach me: **ejimoforjunior87@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
